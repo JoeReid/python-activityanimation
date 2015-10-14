@@ -4,7 +4,7 @@ the console.
 
 ## Examples
 ### Spinner
-The Splinner class has __enter__ and __exit__ methods and is intended to be
+The Splinner class has \_\_enter\_\_ and \_\_exit\_\_ methods and is intended to be
 used with a context manager.
 
 ```python
