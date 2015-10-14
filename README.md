@@ -21,3 +21,4 @@ def long_running_function():
 with Spinner(task="Runing big task:", done="All done"):
     long_running_function()
 ```
+[![asciicast](https://asciinema.org/a/e02bba9u05f2uqmn9ivgxllz1.png)](https://asciinema.org/a/e02bba9u05f2uqmn9ivgxllz1)
